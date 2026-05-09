@@ -1,0 +1,21 @@
+{
+  "_note": "Edit these targets anytime as you get stronger. All values are weekly unless noted.",
+  "fitness": {
+    "running_km_per_week": 20,
+    "cycling_km_per_week": 100,
+    "swim_hours_per_week": 4,
+    "gym_days_per_week": 4,
+    "gym_sessions_required": ["push", "pull", "legs", "core"]
+  },
+  "mental": {
+    "instagram_max_mins_per_day": 30
+  },
+  "finance": {
+    "monthly_budget_inr": 20000,
+    "currency": "INR"
+  },
+  "engineering": {
+    "learning_hours_per_day": 1,
+    "focus_topics": ["systems", "OS", "GPU", "networking", "computer architecture", "databases", "compilers"]
+  }
+}

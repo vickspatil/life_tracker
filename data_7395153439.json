@@ -1,0 +1,436 @@
+{
+  "logs": [
+    {
+      "id": "14767806-84f6-437d-81e0-a8648b28400e",
+      "timestamp": "2026-04-26T17:31:01.141998",
+      "date": "2026-04-26",
+      "raw": "I spent 200 rupees on breakfast and lunch today, and walked about 10,000 steps. Ate light, and moved a lot. Heavy instagram usage, about 2 hours. Haven't studied anything yet, (it's 5:24 pm)",
+      "parsed": {
+        "fitness": {
+          "running_km": null,
+          "cycling_km": null,
+          "swim_hours": null,
+          "gym_session": null
+        },
+        "mental": {
+          "instagram_mins": 120,
+          "meditation": false,
+          "mood": null
+        },
+        "finance": {
+          "spent": 200,
+          "category": "food"
+        },
+        "engineering": {
+          "learning_hours": 0,
+          "topics": []
+        }
+      }
+    },
+    {
+      "id": "828926d0-bdf4-47ad-8986-8532b8531dba",
+      "timestamp": "2026-05-04T10:13:08.929493",
+      "date": "2026-05-04",
+      "raw": "Forgot to mention, ran a 5K yesterday. Spent 1.5K on dinner with family, good spend. Instagram is down to NIL, haven't used in a long time. Weight is 87.15kg now, 500 grams increased from last week. Targetting losing it and more this week. I'll keep you updated about today",
+      "parsed": {
+        "fitness": {
+          "running_km": 5.0,
+          "cycling_km": null,
+          "swim_hours": null,
+          "gym_session": null
+        },
+        "mental": {
+          "instagram_mins": 0,
+          "meditation": false,
+          "mood": null
+        },
+        "finance": {
+          "spent": 1500,
+          "category": "food"
+        },
+        "engineering": {
+          "learning_hours": null,
+          "topics": []
+        }
+      }
+    },
+    {
+      "id": "5cb064f8-d706-4884-9709-c27099e902e6",
+      "timestamp": "2026-05-04T10:40:20.367316",
+      "date": "2026-05-04",
+      "raw": "Spent 40 rupees on breakfast",
+      "parsed": {
+        "fitness": {
+          "running_km": null,
+          "cycling_km": null,
+          "swim_hours": null,
+          "gym_session": null
+        },
+        "mental": {
+          "instagram_mins": null,
+          "meditation": false,
+          "mood": null
+        },
+        "finance": {
+          "spent": 40,
+          "category": "food"
+        },
+        "engineering": {
+          "learning_hours": null,
+          "topics": []
+        }
+      }
+    },
+    {
+      "id": "73c79405-8a45-49be-a9d9-6fbdbc8ee3b3",
+      "timestamp": "2026-05-05T10:24:10.929717",
+      "date": "2026-05-05",
+      "raw": "Spent 120 on brunch",
+      "parsed": {
+        "fitness": {
+          "running_km": null,
+          "cycling_km": null,
+          "swim_hours": null,
+          "gym_session": null
+        },
+        "mental": {
+          "instagram_mins": null,
+          "meditation": false,
+          "mood": null
+        },
+        "finance": {
+          "spent": 120,
+          "category": "food"
+        },
+        "engineering": {
+          "learning_hours": null,
+          "topics": []
+        }
+      }
+    },
+    {
+      "id": "f530488c-9dc2-4a20-95f2-c40ead008bd6",
+      "timestamp": "2026-05-06T08:35:41.253534",
+      "date": "2026-05-06",
+      "raw": "Spent 500 rupees on food again",
+      "parsed": {
+        "fitness": {
+          "running_km": null,
+          "cycling_km": null,
+          "swim_hours": null,
+          "gym_session": null
+        },
+        "mental": {
+          "instagram_mins": null,
+          "meditation": false,
+          "mood": null
+        },
+        "finance": {
+          "spent": 500,
+          "category": "food"
+        },
+        "engineering": {
+          "learning_hours": null,
+          "topics": []
+        }
+      }
+    },
+    {
+      "id": "67f02aa3-4bcf-4190-8902-ea0515ee86d7",
+      "timestamp": "2026-05-06T08:51:24.315223",
+      "date": "2026-05-06",
+      "raw": "I ran another 5K and also a 2km swim. I studied for 2.5 hours.",
+      "parsed": {
+        "fitness": {
+          "running_km": 5.0,
+          "cycling_km": null,
+          "swim_hours": null,
+          "gym_session": null
+        },
+        "mental": {
+          "instagram_mins": null,
+          "meditation": false,
+          "mood": null
+        },
+        "finance": {
+          "spent": null,
+          "category": null
+        },
+        "engineering": {
+          "learning_hours": 2.5,
+          "topics": []
+        }
+      }
+    },
+    {
+      "id": "d41f1393-936f-49de-82b4-c1a2b53543c9",
+      "timestamp": "2026-05-06T14:42:43.730583",
+      "date": "2026-05-06",
+      "raw": "Hi",
+      "parsed": {
+        "fitness": {
+          "running_km": null,
+          "cycling_km": null,
+          "swim_hours": null,
+          "gym_session": null
+        },
+        "mental": {
+          "instagram_mins": null,
+          "meditation": false,
+          "mood": null
+        },
+        "finance": {
+          "spent": null,
+          "category": null
+        },
+        "engineering": {
+          "learning_hours": null,
+          "topics": []
+        }
+      }
+    },
+    {
+      "id": "ce6d9cd6-4e33-4bae-804b-f50b35f23570",
+      "timestamp": "2026-05-06T15:10:44.217483",
+      "date": "2026-05-06",
+      "raw": "Spent 140 on lunch",
+      "parsed": {
+        "fitness": {
+          "running_km": null,
+          "cycling_km": null,
+          "swim_hours": null,
+          "gym_session": null
+        },
+        "mental": {
+          "instagram_mins": null,
+          "meditation": false,
+          "mood": null
+        },
+        "finance": {
+          "spent": 140,
+          "category": "food"
+        },
+        "engineering": {
+          "learning_hours": null,
+          "topics": []
+        }
+      }
+    },
+    {
+      "id": "eb887aeb-48c7-4d2b-a098-4caaf436aa97",
+      "timestamp": "2026-05-07T08:47:06.769351",
+      "date": "2026-05-07",
+      "raw": "Spent 777 on Posters and stickers, always wanted to get them.",
+      "parsed": {
+        "fitness": {
+          "running_km": null,
+          "cycling_km": null,
+          "swim_hours": null,
+          "gym_session": null
+        },
+        "mental": {
+          "instagram_mins": null,
+          "meditation": false,
+          "mood": null
+        },
+        "finance": {
+          "spent": 777,
+          "category": "shopping"
+        },
+        "engineering": {
+          "learning_hours": null,
+          "topics": []
+        }
+      }
+    },
+    {
+      "id": "6c1dbc0c-5e85-4b6e-b22c-ce872e787983",
+      "timestamp": "2026-05-07T09:34:04.698946",
+      "date": "2026-05-07",
+      "raw": "Spent 140 on breakfast",
+      "parsed": {
+        "fitness": {
+          "running_km": null,
+          "cycling_km": null,
+          "swim_hours": null,
+          "gym_session": null
+        },
+        "mental": {
+          "instagram_mins": null,
+          "meditation": false,
+          "mood": null
+        },
+        "finance": {
+          "spent": 140,
+          "category": "food"
+        },
+        "engineering": {
+          "learning_hours": null,
+          "topics": []
+        }
+      }
+    },
+    {
+      "id": "9dc6478a-707b-400f-8f08-cdefff6f4e0f",
+      "timestamp": "2026-05-07T09:35:13.131470",
+      "date": "2026-05-07",
+      "raw": "How much have I spent in the last 10 days?",
+      "parsed": {
+        "fitness": {
+          "running_km": null,
+          "cycling_km": null,
+          "swim_hours": null,
+          "gym_session": null
+        },
+        "mental": {
+          "instagram_mins": null,
+          "meditation": false,
+          "mood": null
+        },
+        "finance": {
+          "spent": null,
+          "category": null
+        },
+        "engineering": {
+          "learning_hours": null,
+          "topics": []
+        }
+      }
+    },
+    {
+      "id": "cd4d626d-e934-4d65-b0b1-54b3784994ae",
+      "timestamp": "2026-05-08T10:22:41.793107",
+      "date": "2026-05-08",
+      "raw": "Spent 65 rupees on food for the poor",
+      "parsed": {
+        "fitness": {
+          "running_km": null,
+          "cycling_km": null,
+          "swim_hours": null,
+          "gym_session": null
+        },
+        "mental": {
+          "instagram_mins": null,
+          "meditation": false,
+          "mood": null
+        },
+        "finance": {
+          "spent": 65,
+          "category": "food"
+        },
+        "engineering": {
+          "learning_hours": null,
+          "topics": []
+        }
+      }
+    },
+    {
+      "id": "1b14f889-0223-467a-8f53-0bcabbbc4f99",
+      "timestamp": "2026-05-08T10:23:25.007050",
+      "date": "2026-05-08",
+      "raw": "Went to the gym yesterday and day before yesterday, Pull and Legs",
+      "parsed": {
+        "fitness": {
+          "running_km": null,
+          "cycling_km": null,
+          "swim_hours": null,
+          "gym_session": null
+        },
+        "mental": {
+          "instagram_mins": null,
+          "meditation": false,
+          "mood": null
+        },
+        "finance": {
+          "spent": null,
+          "category": null
+        },
+        "engineering": {
+          "learning_hours": null,
+          "topics": []
+        }
+      }
+    },
+    {
+      "id": "0783467f-d20b-4120-bfe3-40cc006b6796",
+      "timestamp": "2026-05-08T10:23:45.176208",
+      "date": "2026-05-08",
+      "raw": "Went to the gym",
+      "parsed": {
+        "fitness": {
+          "running_km": null,
+          "cycling_km": null,
+          "swim_hours": null,
+          "gym_session": null
+        },
+        "mental": {
+          "instagram_mins": null,
+          "meditation": false,
+          "mood": null
+        },
+        "finance": {
+          "spent": null,
+          "category": null
+        },
+        "engineering": {
+          "learning_hours": null,
+          "topics": []
+        }
+      }
+    },
+    {
+      "id": "e345b754-5ac4-44b1-84f5-7a432a9e9e0c",
+      "timestamp": "2026-05-08T10:24:03.710570",
+      "date": "2026-05-08",
+      "raw": "Worked out yesterday for 1 hour",
+      "parsed": {
+        "fitness": {
+          "running_km": null,
+          "cycling_km": null,
+          "swim_hours": null,
+          "gym_session": null
+        },
+        "mental": {
+          "instagram_mins": null,
+          "meditation": false,
+          "mood": null
+        },
+        "finance": {
+          "spent": null,
+          "category": null
+        },
+        "engineering": {
+          "learning_hours": null,
+          "topics": []
+        }
+      }
+    },
+    {
+      "id": "c9ea96f1-8e91-4a84-b952-0fba88403e0b",
+      "timestamp": "2026-05-08T10:24:31.770632",
+      "date": "2026-05-08",
+      "raw": "Please log 2 gym sessions of 1 hour each",
+      "parsed": {
+        "fitness": {
+          "running_km": null,
+          "cycling_km": null,
+          "swim_hours": null,
+          "gym_session": null
+        },
+        "mental": {
+          "instagram_mins": null,
+          "meditation": false,
+          "mood": null
+        },
+        "finance": {
+          "spent": null,
+          "category": null
+        },
+        "engineering": {
+          "learning_hours": null,
+          "topics": []
+        }
+      }
+    }
+  ]
+}

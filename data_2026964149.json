@@ -1,0 +1,58 @@
+{
+  "logs": [
+    {
+      "id": "c21e193f-a5df-4888-8556-747342a77825",
+      "timestamp": "2026-05-07T14:11:42.751793",
+      "date": "2026-05-07",
+      "raw": "Spent rs 470 on travel today",
+      "parsed": {
+        "fitness": {
+          "running_km": null,
+          "cycling_km": null,
+          "swim_hours": null,
+          "gym_session": null
+        },
+        "mental": {
+          "instagram_mins": null,
+          "meditation": false,
+          "mood": null
+        },
+        "finance": {
+          "spent": 470,
+          "category": "transport"
+        },
+        "engineering": {
+          "learning_hours": null,
+          "topics": []
+        }
+      }
+    },
+    {
+      "id": "80eaca22-d273-401e-8ec2-7f8fe9a60f1f",
+      "timestamp": "2026-05-07T16:24:12.968666",
+      "date": "2026-05-07",
+      "raw": "Spent rs 24 in bus",
+      "parsed": {
+        "fitness": {
+          "running_km": null,
+          "cycling_km": null,
+          "swim_hours": null,
+          "gym_session": null
+        },
+        "mental": {
+          "instagram_mins": null,
+          "meditation": false,
+          "mood": null
+        },
+        "finance": {
+          "spent": 24,
+          "category": "transport"
+        },
+        "engineering": {
+          "learning_hours": null,
+          "topics": []
+        }
+      }
+    }
+  ]
+}
